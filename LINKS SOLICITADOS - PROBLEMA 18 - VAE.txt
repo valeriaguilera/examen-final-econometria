@@ -1,0 +1,10 @@
+LINKS SOLICITADOS:
+
+GROK: 
+https://grok.com/c/7107c47a-6a7f-4a4e-9620-a22becd4e0bc
+
+COLAB:
+https://colab.research.google.com/drive/1jGIAIfT2JUCZoLIOUUGoVU4zdvzWj_Tg?usp=sharing
+
+GitHub:
+https://github.com/valeriaguilera/examen-final-econometria.git
