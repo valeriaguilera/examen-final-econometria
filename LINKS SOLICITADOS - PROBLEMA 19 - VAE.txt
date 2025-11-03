@@ -1,0 +1,12 @@
+LINKS PROBLEMA 19
+
+GROK:
+https://grok.com/c/349c89b8-eed8-441b-af68-720f89135de7
+
+
+COLAB:
+https://colab.research.google.com/drive/1Grgo-wrLMDzmQ-Yo8Xb6ZgM8S94GvHcq?usp=sharing
+
+
+GitHub:
+https://github.com/valeriaguilera/examen-final-econometria.git
